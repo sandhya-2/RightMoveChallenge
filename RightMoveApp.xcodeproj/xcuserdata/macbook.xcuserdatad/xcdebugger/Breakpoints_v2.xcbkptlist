@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "500848FC-8EA7-47EF-8F5B-1D45C39D0948"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RightMoveApp/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - 2774f22392bfa7f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - 10ff02bfef5e2bd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - 2647a747b4d97bf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - bc34383946b2c8f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - 6293d990167371f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - 2774f22392bfa7f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - bc34383946b2c96b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - 6293d9901673683"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - 2774f22392bfa669"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "907E6AE3-F585-44C3-A3CB-41A8C0BB4D2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RightMoveApp/ViewModel/PropertyViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getDataFromAPI(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "907E6AE3-F585-44C3-A3CB-41A8C0BB4D2A - 9037ec9aafe6bf6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "577">
+               </Location>
+               <Location
+                  uuid = "907E6AE3-F585-44C3-A3CB-41A8C0BB4D2A - 9037ec9aafe6bf6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "601">
+               </Location>
+               <Location
+                  uuid = "907E6AE3-F585-44C3-A3CB-41A8C0BB4D2A - 9037ec9aafe6bf24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1001">
+               </Location>
+               <Location
+                  uuid = "907E6AE3-F585-44C3-A3CB-41A8C0BB4D2A - 9037ec9aafe6bf6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "907E6AE3-F585-44C3-A3CB-41A8C0BB4D2A - 9037ec9aafe6bf05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "568">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15FD2A98-20C8-40B8-9A0D-0893FF9CA307"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RightMoveApp/ViewModel/PropertyViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getDataFromAPI(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15FD2A98-20C8-40B8-9A0D-0893FF9CA307 - 9037ec9aafe6bf89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "362">
+               </Location>
+               <Location
+                  uuid = "15FD2A98-20C8-40B8-9A0D-0893FF9CA307 - 9037ec9aafe6bf89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "15FD2A98-20C8-40B8-9A0D-0893FF9CA307 - 9037ec9aafe6bf89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "381">
+               </Location>
+               <Location
+                  uuid = "15FD2A98-20C8-40B8-9A0D-0893FF9CA307 - 9037ec9aafe6bf89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "374">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FCFAAFB-0C06-4952-A119-2918A33CEBC4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RightMoveApp/ViewModel/PropertyViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "calculateAveragePropertyPrice()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4FCFAAFB-0C06-4952-A119-2918A33CEBC4 - 69d5879b6c7ddf5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RightMoveApp.PropertyViewModel.calculateAveragePropertyPrice() -&gt; Swift.Double"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "622">
+               </Location>
+               <Location
+                  uuid = "4FCFAAFB-0C06-4952-A119-2918A33CEBC4 - 6539485dafb73041"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RightMoveApp.PropertyViewModel.calculateAveragePropertyPrice() -&gt; Swift.String"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "964">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FADE02CD-D8C0-42B4-912F-64238215C932"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RightMoveApp/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FADE02CD-D8C0-42B4-912F-64238215C932 - bc34383946b2c9ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  uuid = "FADE02CD-D8C0-42B4-912F-64238215C932 - bc34383946b2c9c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Desktop/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
