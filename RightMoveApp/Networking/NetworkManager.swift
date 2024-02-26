@@ -21,7 +21,7 @@ final class NetworkManager: Networkable {
     
     func get(url: URL) async throws -> Data {
         do {
-            let (data,_) = try await URLSession.shared.data(from: url)
+            let (data,_) = try await urlSession.data(from: url)
             return data
         } catch let error {
             print(error.localizedDescription)

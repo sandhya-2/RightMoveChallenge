@@ -154,6 +154,51 @@
                   endingLineNumber = "21"
                   offsetFromSymbolStart = "21">
                </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - 9c8740ae51ccf832"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - 269a450e161907da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "4655F77B-F9B0-41BC-BB64-BE9AF95B08E0 - 7c78ab485c19730"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "21">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -247,6 +292,51 @@
                   endingLineNumber = "34"
                   offsetFromSymbolStart = "568">
                </Location>
+               <Location
+                  uuid = "907E6AE3-F585-44C3-A3CB-41A8C0BB4D2A - 72dc0a276a1b8fef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "907E6AE3-F585-44C3-A3CB-41A8C0BB4D2A - 72dc0a276a1b8fef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "907E6AE3-F585-44C3-A3CB-41A8C0BB4D2A - 72dc0a276a1b8fef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "512">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -325,6 +415,51 @@
                   endingLineNumber = "30"
                   offsetFromSymbolStart = "374">
                </Location>
+               <Location
+                  uuid = "15FD2A98-20C8-40B8-9A0D-0893FF9CA307 - 72dc0a276a1b8e53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "374">
+               </Location>
+               <Location
+                  uuid = "15FD2A98-20C8-40B8-9A0D-0893FF9CA307 - 72dc0a276a1b8e53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "15FD2A98-20C8-40B8-9A0D-0893FF9CA307 - 72dc0a276a1b8e53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveApp.PropertyViewModel.getDataFromAPI(urlString: Swift.String) async -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "321">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -373,6 +508,21 @@
                   endingLineNumber = "61"
                   offsetFromSymbolStart = "964">
                </Location>
+               <Location
+                  uuid = "4FCFAAFB-0C06-4952-A119-2918A33CEBC4 - 87d2aee06a4a019f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RightMoveApp.PropertyViewModel.calculateAveragePropertyPrice() -&gt; Swift.String"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/ViewModel/PropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1013">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -420,6 +570,516 @@
                   startingLineNumber = "24"
                   endingLineNumber = "24"
                   offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "FADE02CD-D8C0-42B4-912F-64238215C932 - 9c8740ae51ccf955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RightMoveApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RightMoveApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveApp/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "291">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "test_GetFunction_WhenAPIFailsToReturnExpectedData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B - e01633c16326d055"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B - 4c0c8f8d4a5a5256"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "162">
+               </Location>
+               <Location
+                  uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B - 58d8aaae9dddcbb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1356">
+               </Location>
+               <Location
+                  uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B - 66ef7132737b5872"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B - e01633c16326d7b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "105">
+               </Location>
+               <Location
+                  uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B - 4c0c8f8d4a5a55b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B - 58d8aaae9dddcc72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1356">
+               </Location>
+               <Location
+                  uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B - 66ef7132737b5fb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B - e01633c16326d074"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "105">
+               </Location>
+               <Location
+                  uuid = "E3B54CF0-2A60-407F-A4F6-337CFD70CE0B - 4c0c8f8d4a5a5277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55F821D8-03C6-407B-987E-6733807DA00D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "test_GetFunction_WhenAPIFailsToReturnExpectedData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55F821D8-03C6-407B-987E-6733807DA00D - e01633c16326d032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "215">
+               </Location>
+               <Location
+                  uuid = "55F821D8-03C6-407B-987E-6733807DA00D - 4c0c8f8d4a5a5231"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "470">
+               </Location>
+               <Location
+                  uuid = "55F821D8-03C6-407B-987E-6733807DA00D - 4c0c8f8d4a5a5277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "290">
+               </Location>
+               <Location
+                  uuid = "55F821D8-03C6-407B-987E-6733807DA00D - 4c0c8f8d4a5a5231"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenAPIFailsToReturnExpectedData() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "290">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "972C13BC-4F42-4FF3-996D-0F09B7D1C939"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "test_GetFunction_WhenResponseIs_200()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "972C13BC-4F42-4FF3-996D-0F09B7D1C939 - 2bdd3082b516bc45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "421">
+               </Location>
+               <Location
+                  uuid = "972C13BC-4F42-4FF3-996D-0F09B7D1C939 - 103e9ea60f4df3c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1362">
+               </Location>
+               <Location
+                  uuid = "972C13BC-4F42-4FF3-996D-0F09B7D1C939 - 4e58804e193122b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "972C13BC-4F42-4FF3-996D-0F09B7D1C939 - 2bdd3082b516bfc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "972C13BC-4F42-4FF3-996D-0F09B7D1C939 - 500b07ec800bd9c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "972C13BC-4F42-4FF3-996D-0F09B7D1C939 - 2bdd3082b516bcd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "972C13BC-4F42-4FF3-996D-0F09B7D1C939 - 500b07ec800bdade"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2BAEE9E-51A0-42EA-BDE7-BF55BF38A888"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "test_GetFunction_WhenResponseIs_200()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2BAEE9E-51A0-42EA-BDE7-BF55BF38A888 - 103e9ea60f4df34f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "729">
+               </Location>
+               <Location
+                  uuid = "A2BAEE9E-51A0-42EA-BDE7-BF55BF38A888 - 103e9ea60f4df34f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "446">
+               </Location>
+               <Location
+                  uuid = "A2BAEE9E-51A0-42EA-BDE7-BF55BF38A888 - 103e9ea60f4df34f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC41F91D-7278-4090-A71B-D5B8840BDCED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "test_GetFunction_WhenResponseIs_200()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC41F91D-7278-4090-A71B-D5B8840BDCED - 103e9ea60f4df328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "446">
+               </Location>
+               <Location
+                  uuid = "DC41F91D-7278-4090-A71B-D5B8840BDCED - 103e9ea60f4df328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "DC41F91D-7278-4090-A71B-D5B8840BDCED - 103e9ea60f4df328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RightMoveAppTests.NetworkManagerTests.test_GetFunction_WhenResponseIs_200() async -&gt; ()"
+                  moduleName = "RightMoveAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RightMoveApp/RightMoveAppTests/NetworkManagerTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "190">
                </Location>
             </Locations>
          </BreakpointContent>

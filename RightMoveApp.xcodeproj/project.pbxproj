@@ -21,8 +21,12 @@
 		FA6284BB2B893D2100919119 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6284BA2B893D2100919119 /* NetworkManager.swift */; };
 		FA6284BD2B893D7700919119 /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6284BC2B893D7700919119 /* NetworkError.swift */; };
 		FA6284BF2B893DDE00919119 /* APIEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6284BE2B893DDE00919119 /* APIEndpoint.swift */; };
-		FA6284C12B893EFE00919119 /* Networkable.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6284C02B893EFE00919119 /* Networkable.swift */; };
-		FA6284C52B8BD3F300919119 /* Property.json in Resources */ = {isa = PBXBuildFile; fileRef = FA6284C42B8BD3F300919119 /* Property.json */; };
+		FA6284C12B893EFE00919119 /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6284C02B893EFE00919119 /* Networking.swift */; };
+		FA6284C52B8BD3F300919119 /* PropertySample.json in Resources */ = {isa = PBXBuildFile; fileRef = FA6284C42B8BD3F300919119 /* PropertySample.json */; };
+		FA6284C72B8BD79700919119 /* MockNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6284C62B8BD79700919119 /* MockNetworkManager.swift */; };
+		FA6284C92B8BD7DE00919119 /* MockNetworking.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6284C82B8BD7DE00919119 /* MockNetworking.swift */; };
+		FA6284CC2B8BD91500919119 /* NetworkManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6284CB2B8BD91500919119 /* NetworkManagerTests.swift */; };
+		FA6284CF2B8BDD2C00919119 /* PropertyViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6284CE2B8BDD2C00919119 /* PropertyViewModelTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,8 +65,12 @@
 		FA6284BA2B893D2100919119 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		FA6284BC2B893D7700919119 /* NetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
 		FA6284BE2B893DDE00919119 /* APIEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIEndpoint.swift; sourceTree = "<group>"; };
-		FA6284C02B893EFE00919119 /* Networkable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networkable.swift; sourceTree = "<group>"; };
-		FA6284C42B8BD3F300919119 /* Property.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Property.json; sourceTree = "<group>"; };
+		FA6284C02B893EFE00919119 /* Networking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
+		FA6284C42B8BD3F300919119 /* PropertySample.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PropertySample.json; sourceTree = "<group>"; };
+		FA6284C62B8BD79700919119 /* MockNetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockNetworkManager.swift; sourceTree = "<group>"; };
+		FA6284C82B8BD7DE00919119 /* MockNetworking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockNetworking.swift; sourceTree = "<group>"; };
+		FA6284CB2B8BD91500919119 /* NetworkManagerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManagerTests.swift; sourceTree = "<group>"; };
+		FA6284CE2B8BDD2C00919119 /* PropertyViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyViewModelTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +139,8 @@
 			children = (
 				FA6284C32B8BD3C900919119 /* Stub */,
 				FA6284C22B8BD3C300919119 /* Mock */,
+				FA6284CA2B8BD8EE00919119 /* NetworkManagerTests */,
+				FA6284CD2B8BDCFE00919119 /* PropertyViewModelTests */,
 				FA6284992B88D45500919119 /* RightMoveAppTests.swift */,
 			);
 			path = RightMoveAppTests;
@@ -167,7 +177,7 @@
 				FA6284BA2B893D2100919119 /* NetworkManager.swift */,
 				FA6284BC2B893D7700919119 /* NetworkError.swift */,
 				FA6284BE2B893DDE00919119 /* APIEndpoint.swift */,
-				FA6284C02B893EFE00919119 /* Networkable.swift */,
+				FA6284C02B893EFE00919119 /* Networking.swift */,
 			);
 			path = Networking;
 			sourceTree = "<group>";
@@ -184,6 +194,8 @@
 		FA6284C22B8BD3C300919119 /* Mock */ = {
 			isa = PBXGroup;
 			children = (
+				FA6284C62B8BD79700919119 /* MockNetworkManager.swift */,
+				FA6284C82B8BD7DE00919119 /* MockNetworking.swift */,
 			);
 			path = Mock;
 			sourceTree = "<group>";
@@ -191,9 +203,25 @@
 		FA6284C32B8BD3C900919119 /* Stub */ = {
 			isa = PBXGroup;
 			children = (
-				FA6284C42B8BD3F300919119 /* Property.json */,
+				FA6284C42B8BD3F300919119 /* PropertySample.json */,
 			);
 			path = Stub;
+			sourceTree = "<group>";
+		};
+		FA6284CA2B8BD8EE00919119 /* NetworkManagerTests */ = {
+			isa = PBXGroup;
+			children = (
+				FA6284CB2B8BD91500919119 /* NetworkManagerTests.swift */,
+			);
+			path = NetworkManagerTests;
+			sourceTree = "<group>";
+		};
+		FA6284CD2B8BDCFE00919119 /* PropertyViewModelTests */ = {
+			isa = PBXGroup;
+			children = (
+				FA6284CE2B8BDD2C00919119 /* PropertyViewModelTests.swift */,
+			);
+			path = PropertyViewModelTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -310,7 +338,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA6284C52B8BD3F300919119 /* Property.json in Resources */,
+				FA6284C52B8BD3F300919119 /* PropertySample.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -329,7 +357,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA6284BB2B893D2100919119 /* NetworkManager.swift in Sources */,
-				FA6284C12B893EFE00919119 /* Networkable.swift in Sources */,
+				FA6284C12B893EFE00919119 /* Networking.swift in Sources */,
 				FA6284BD2B893D7700919119 /* NetworkError.swift in Sources */,
 				FA6284872B88D44900919119 /* ViewController.swift in Sources */,
 				FA6284BF2B893DDE00919119 /* APIEndpoint.swift in Sources */,
@@ -344,6 +372,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA6284CF2B8BDD2C00919119 /* PropertyViewModelTests.swift in Sources */,
+				FA6284CC2B8BD91500919119 /* NetworkManagerTests.swift in Sources */,
+				FA6284C92B8BD7DE00919119 /* MockNetworking.swift in Sources */,
+				FA6284C72B8BD79700919119 /* MockNetworkManager.swift in Sources */,
 				FA62849A2B88D45500919119 /* RightMoveAppTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

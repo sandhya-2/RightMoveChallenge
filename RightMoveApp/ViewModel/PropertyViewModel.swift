@@ -9,11 +9,11 @@ import Foundation
 
 class PropertyViewModel {
     
-    var networkManager = NetworkManager()
+    var networkManager: Networkable
     var propertyList: [Property] = []
-    private var customError: NetworkError?
+    var customError: NetworkError?
     
-    init(networkManager: NetworkManager) {
+    init(networkManager: Networkable = NetworkManager()) {
         self.networkManager = networkManager
     }
     
