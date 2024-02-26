@@ -35,10 +35,16 @@ final class RightMoveAppUITests: XCTestCase {
     func test_LabelExists() {
         
         let app = XCUIApplication()
+        let titleLabel = app.staticTexts["HomeScreen"]
         let questionTextView = app.staticTexts["What is the average property price?"]
-        let averagePriceTextView = app.staticTexts["Average property price: £ 410280.78"]
+        XCTAssertTrue(titleLabel.exists)
         XCTAssertTrue(questionTextView.exists)
-        XCTAssertTrue(averagePriceTextView.exists)
         
+    }
+    
+    func test_averagePriceLabel_Exists(){
+        let app = XCUIApplication()
+        let averagePriceTextView = app.staticTexts["Average property price: £ 410280.78"]
+        XCTAssertTrue(averagePriceTextView.exists)
     }
 }
