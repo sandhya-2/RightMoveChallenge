@@ -66,10 +66,25 @@ final class NetworkManagerTests: XCTestCase {
             mockNetworking.error =  NetworkError.invalidURL
             
             //When
-            _ = try await networkManager.get(url: URL(string: "testURl")!)
+            _ = try await networkManager.get(url: URL(string: "sgdaga@$^%$")!)
          
         } catch {
             XCTAssertEqual(error as! NetworkError, NetworkError.invalidURL)
         }
     }
+    
+    /*when API fails with invalid request*/
+    func testGetCharactersWhenRequestIsEmptyStringAndYouDontGetData() async {
+        do {
+            //Given
+            mockNetworking.error =  NetworkError.invalidURL
+            
+            //When
+            _ = try await networkManager.get(url: URL(string: " ")!)
+         
+        } catch {
+            XCTAssertEqual(error as! NetworkError, NetworkError.invalidURL)
+        }
+    }
+    
 }

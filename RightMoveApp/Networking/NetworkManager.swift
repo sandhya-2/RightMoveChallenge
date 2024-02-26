@@ -13,7 +13,7 @@ protocol Networkable {
 
 
 final class NetworkManager: Networkable {
-    
+     
     let urlSession: Networking
     init(urlSession: Networking = URLSession.shared) {
         self.urlSession = urlSession
